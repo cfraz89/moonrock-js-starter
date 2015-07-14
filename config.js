@@ -10,6 +10,7 @@ System.config({
 System.config({
   "map": {
     "moonrock": "github:cfraz89/moonrock-js@master",
+    "rx": "npm:rx@2.5.3",
     "traceur": "github:jmcriffey/bower-traceur@0.0.88",
     "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.88",
     "github:cfraz89/moonrock-js@master": {

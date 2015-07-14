@@ -2,7 +2,8 @@
   "jspm": {
     "directories": {},
     "dependencies": {
-      "moonrock": "github:cfraz89/moonrock-js@master"
+      "moonrock": "github:cfraz89/moonrock-js@master",
+      "rx": "npm:rx@^2.5.3"
     },
     "devDependencies": {
       "traceur": "github:jmcriffey/bower-traceur@0.0.88",
