@@ -1,3 +1,4 @@
+var Rx = require('rx');
 var MRHelper = (function () {
     function MRHelper() {
         this.window = window;

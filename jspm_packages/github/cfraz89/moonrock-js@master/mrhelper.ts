@@ -2,6 +2,8 @@ declare var System: any
 declare var streamInterface: any
 declare var reversePortalInterface: any
 
+import Rx = require('rx')
+
 export class MRHelper {
   window: any
 
